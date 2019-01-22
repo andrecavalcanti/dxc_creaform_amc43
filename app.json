@@ -1,0 +1,26 @@
+{
+  "id": "e3fe681a-056c-4fd3-a6bb-323f000142f7",
+  "name": "DXC Bill To Address",
+  "publisher": "DXC",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "breakonerror" : true,
+  "runtime": "1.0"
+}
